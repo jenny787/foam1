@@ -3,11 +3,13 @@
 
 @import "{{ site.theme }}";
 
-body {color: #080808;}
+
+
 
 .markdown-body {
   max-width: 800px;
   font-size: 16px;
+  color: #080808;
 }
 
 .markdown-body p {
