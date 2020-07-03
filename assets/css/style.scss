@@ -3,13 +3,15 @@
 
 @import "{{ site.theme }}";
 
-
+.body {
+  background: #080808;
+}
+  
 
 
 .markdown-body {
   max-width: 800px;
   font-size: 16px;
-  background: #080808;
 }
 
 .markdown-body p {
