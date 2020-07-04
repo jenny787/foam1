@@ -1,11 +1,14 @@
 ---
 title: Harry
-date: 20200703141002
----
+ID: 20200703141002
 #bio
+---
+
 
 # Harry Harutunian
-![Mr. Harutunian](harry1.png)
+
+![Mr. Harutunian](harry1.png)  
+
 **CEO**
 
 Harry was born in Atherton, California. His parents were industrialists Hovsep Haroutian and Carrie Leidesdorff. He is of Armenian descent from his father’s side and mixed race from his mother’s.  
